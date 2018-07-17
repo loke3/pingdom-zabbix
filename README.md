@@ -1,3 +1,6 @@
+Main contributer of this project is Mark Mercado <mamercad@umflint.edu>
+I just ammended and created this project to include transcational checks into zabbix
+
 ## pingdom-zabbix.py
 
 Maintainer: Mark Mercado <mamercad@umflint.edu>
