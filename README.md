@@ -3,8 +3,11 @@ Main contributer of this project is Mark Mercado <mamercad@umflint.edu>
 I just ammended and created this project to include transcational checks into zabbix
 
 pingdom-zabbix_d_to_z.py - This will pull Checks information from pingdom and send to zabbix.
+
 pingdom-zabbix_v_to_z.py - This will pull data (status & respose time, etc) for respective checks and send to zabbix.
+
 pingdom-zabbixtxn_d_to_z.py - This will pull transcational check information from pingdom and send to zabbix.
+
 pingdom-zabbixtxn_v_to_Z.py - This will pull transcational data(status) information from pingdom and send to zabbix.
 
 
